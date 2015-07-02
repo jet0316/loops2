@@ -20,7 +20,55 @@ var students = [{
  city: 'Denver'
 }];
 
+//==============================  1  =============================================
+// for (var i = 0; i < students.length; i++) {
+// 	console.log(students[i].age)
+// };
 
-for (var i = 0; i < students.length; i++) {
-	students[i]
-};
+//=============================  2  ================================================
+
+
+// for (var i = 0; i < students.length; i++) {
+// 	console.log(students[i].name + ', ' + students[i].city)
+// };
+
+//=============================  3  ================================================
+
+
+// for (var i = 0; i < students.length; i++) {
+// 	if (students[i].city === 'Boulder'){
+		
+// 	var output = students[i].name + ' is from ' + students[i].city
+// 	console.log(output)
+// 	// return output
+// 	}
+// };
+
+//=============================  4  ================================================
+
+// for (var i = 0; i < students.length; i++) {
+//  	if (students[i].age > 25){
+		
+// 	var output = students[i].name + ' is older than 25'
+// 	console.log(output)
+// 	// return output
+// 	}
+// };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
